@@ -38,5 +38,10 @@ namespace Bro_Hot_Food_And_Beverage
             add_new_meal add_New_Meal = new add_new_meal();
             add_New_Meal.ShowDialog();
         }
+
+        private void MainMenu_KeyDown(object sender, KeyEventArgs e)
+        {
+          
+        }
     }
 }
