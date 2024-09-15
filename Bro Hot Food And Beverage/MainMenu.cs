@@ -41,7 +41,14 @@ namespace Bro_Hot_Food_And_Beverage
 
         private void MainMenu_KeyDown(object sender, KeyEventArgs e)
         {
+
           
+
+            if (e.KeyCode == Keys.Escape)
+            {
+                MessageBox.Show("sajuuu");
+            }
+
         }
     }
 }
