@@ -31,7 +31,7 @@ namespace Bro_Hot_Food_And_Beverage
             button.Size = new Size();
             button.Location = new Point();
             button.Visible = true;
-            //button.Size(10, 10);
+            button.Size(10, 10);
             MessageBox.Show("meal added success");
 
         }

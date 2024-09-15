@@ -43,30 +43,5 @@ namespace Bro_Hot_Food_And_Beverage
         {
           
         }
-
-        private void dataGridView3_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
-        }
-
-        private void listBox_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2Button28_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void guna2Button32_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
     }
 }
